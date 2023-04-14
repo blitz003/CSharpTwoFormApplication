@@ -1,0 +1,11 @@
+D:\CIS 2324-001\Program 10 Two Form App\bin\Debug\Program 10 Two Form App.exe.config
+D:\CIS 2324-001\Program 10 Two Form App\bin\Debug\Program 10 Two Form App.exe
+D:\CIS 2324-001\Program 10 Two Form App\bin\Debug\Program 10 Two Form App.pdb
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program 10 Two Form App.csproj.AssemblyReference.cache
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program_10_Two_Form_App.Form1.resources
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program_10_Two_Form_App.MealPlanForm.resources
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program_10_Two_Form_App.Properties.Resources.resources
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program 10 Two Form App.csproj.GenerateResource.cache
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program 10 Two Form App.csproj.CoreCompileInputs.cache
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program 10 Two Form App.exe
+D:\CIS 2324-001\Program 10 Two Form App\obj\Debug\Program 10 Two Form App.pdb
